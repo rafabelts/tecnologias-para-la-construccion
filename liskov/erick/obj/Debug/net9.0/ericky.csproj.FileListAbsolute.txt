@@ -1,0 +1,15 @@
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/bin/Debug/net9.0/ericky
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/bin/Debug/net9.0/ericky.deps.json
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/bin/Debug/net9.0/ericky.runtimeconfig.json
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/bin/Debug/net9.0/ericky.dll
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/bin/Debug/net9.0/ericky.pdb
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.AssemblyInfoInputs.cache
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.AssemblyInfo.cs
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.csproj.CoreCompileInputs.cache
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.sourcelink.json
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.dll
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/refint/ericky.dll
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.pdb
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ericky.genruntimeconfig.cache
+/Users/rafabelts/Development/tec-const/liskov/erick/ericky/obj/Debug/net9.0/ref/ericky.dll
